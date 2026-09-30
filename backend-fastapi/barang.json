@@ -1,0 +1,22 @@
+[
+    {"id": 1, "nama": "Imber Y necklace", "kategori": "Necklace", "jumlah_stok": 8, "lokasi_gudang": "Etalase A1"},
+    {"id": 2, "nama": "Chroma necklace", "kategori": "Necklace", "jumlah_stok": 5, "lokasi_gudang": "Etalase A1"},
+    {"id": 3, "nama": "Chroma strandage", "kategori": "Necklace", "jumlah_stok": 3, "lokasi_gudang": "Etalase A2"},
+    {"id": 4, "nama": "Millenia necklace", "kategori": "Necklace", "jumlah_stok": 2, "lokasi_gudang": "Etalase A2"},
+    {"id": 5, "nama": "Imber necklace", "kategori": "Necklace", "jumlah_stok": 0, "lokasi_gudang": "Etalase A3"},
+    {"id": 6, "nama": "Mesmera open ring", "kategori": "Rings", "jumlah_stok": 7, "lokasi_gudang": "Etalase B1"},
+    {"id": 7, "nama": "Imber cocktail ring", "kategori": "Rings", "jumlah_stok": 4, "lokasi_gudang": "Etalase B1"},
+    {"id": 8, "nama": "Chroma ring", "kategori": "Rings", "jumlah_stok": 2, "lokasi_gudang": "Etalase B2"},
+    {"id": 9, "nama": "Sublima cocktail ring", "kategori": "Rings", "jumlah_stok": 1, "lokasi_gudang": "Etalase B2"},
+    {"id": 10, "nama": "Swarovski Classica cocktail ring", "kategori": "Rings", "jumlah_stok": 0, "lokasi_gudang": "Etalase B3"},
+    {"id": 11, "nama": "Millenia drop earrings", "kategori": "Earrings", "jumlah_stok": 10, "lokasi_gudang": "Etalase C1"},
+    {"id": 12, "nama": "Una Angelic drop earrings", "kategori": "Earrings", "jumlah_stok": 6, "lokasi_gudang": "Etalase C1"},
+    {"id": 13, "nama": "Sublima drop earrings", "kategori": "Earrings", "jumlah_stok": 4, "lokasi_gudang": "Etalase C2"},
+    {"id": 14, "nama": "Chroma drop earrings", "kategori": "Earrings", "jumlah_stok": 3, "lokasi_gudang": "Etalase C2"},
+    {"id": 15, "nama": "Sublima drop earrings", "kategori": "Earrings", "jumlah_stok": 0, "lokasi_gudang": "Etalase C3"},
+    {"id": 16, "nama": "Una Angelic pendant", "kategori": "Pendants", "jumlah_stok": 8, "lokasi_gudang": "Etalase D1"},
+    {"id": 17, "nama": "Chroma pendant", "kategori": "Pendants", "jumlah_stok": 5, "lokasi_gudang": "Etalase D1"},
+    {"id": 18, "nama": "Millenia pendant", "kategori": "Pendants", "jumlah_stok": 3, "lokasi_gudang": "Etalase D2"},
+    {"id": 19, "nama": "Imber layered necklace", "kategori": "Pendants", "jumlah_stok": 2, "lokasi_gudang": "Etalase D2"},
+    {"id": 20, "nama": "Idyllia pendant and brooch", "kategori": "Pendants", "jumlah_stok": 0, "lokasi_gudang": "Etalase D3"}
+]
